@@ -2,7 +2,7 @@
 
 Welcome to the Number Guessing Game! This web application is designed to challenge your number-guessing skills and provide an enjoyable gaming experience. Try to guess the secret number, earn the highest score, and have fun!
 
-![Number Guessing Game Screenshot](screenshot.png)
+![Number Guessing Game Screenshot](Screenshot.png)
 
 ## Table of Contents
 
